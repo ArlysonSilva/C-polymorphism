@@ -1,0 +1,14 @@
+C:\POO\06polymorphism\bin\Debug\net9.0\06polymorphism.exe
+C:\POO\06polymorphism\bin\Debug\net9.0\06polymorphism.deps.json
+C:\POO\06polymorphism\bin\Debug\net9.0\06polymorphism.runtimeconfig.json
+C:\POO\06polymorphism\bin\Debug\net9.0\06polymorphism.dll
+C:\POO\06polymorphism\bin\Debug\net9.0\06polymorphism.pdb
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.AssemblyInfoInputs.cache
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.AssemblyInfo.cs
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.csproj.CoreCompileInputs.cache
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.dll
+C:\POO\06polymorphism\obj\Debug\net9.0\refint\06polymorphism.dll
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.pdb
+C:\POO\06polymorphism\obj\Debug\net9.0\06polymorphism.genruntimeconfig.cache
+C:\POO\06polymorphism\obj\Debug\net9.0\ref\06polymorphism.dll
